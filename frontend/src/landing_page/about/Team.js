@@ -4,7 +4,7 @@ function Team() {
   return (
     <div className="container">
       <div className="row p-3 mt-5 border-top">
-        <h1 className="text-center">People</h1>
+        <h1 className="text-center">Peo</h1>
       </div>
       <div
         className="row p-5 text-muted"
