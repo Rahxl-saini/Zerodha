@@ -84,7 +84,7 @@ function CreateTicket() {
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Opening
+            Corporate Actions
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
