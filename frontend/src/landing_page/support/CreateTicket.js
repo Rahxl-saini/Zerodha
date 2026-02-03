@@ -72,15 +72,15 @@ function CreateTicket() {
             <i class="fa fa-bar-chart" aria-hidden="true"></i>Your Zerodha Account
           </h4>
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Online Account Opening
+            Margin/leverage, Product and Order
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Offline Account Opening
+            Kite Web and Mobile
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
-            Company, Partnership and HUF Account
+            Trading FAQs
           </a>
           <br />
           <a href="" style={{ textDecoration: "none", lineHeight: "2.5" }}>
