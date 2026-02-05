@@ -6,3 +6,5 @@ const OrdersSchema = new Schema({
     price: Number,
     mode: String,
 });
+
+module.exports = { OrdersSchema };
