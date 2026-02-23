@@ -20,11 +20,11 @@ function Team() {
         </div>
         <div className="col-6 p-3">
           <p>
-            Nithin bootstrapped and founded Zerodha in 2010 to overcome the
+            {/* Nithin bootstrapped and founded Zerodha in 2010 to overcome the
             hurdles he faced during his decade long stint as a trader. Today,
             Zerodha has changed the landscape of the Indian broking industry. He
             is a member of the SEBI Secondary Market Advisory Committee (SMAC)
-            and the Market Data Advisory Committee (MDAC).
+            and the Market Data Advisory Committee (MDAC). */}
           </p>
           <p>Playing basketball is his zen.</p>
           <p>
