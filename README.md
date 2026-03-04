@@ -106,7 +106,7 @@ Implementing real-world trading business logic
 
 Deploying and managing full-stack applications on AWS
 
-🚀 Live Demo
+🚀 Live Demo: https://zerodha-d7v3.onrender.com
 
-(Add your deployed AWS link here)
+
 
